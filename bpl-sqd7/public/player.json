@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co.com/2dYbCQG/1.jpg",
+      "name": "Rohit Sharma",
+      "country": "India",
+      "type": "Batsman",
+      "rating": 4.8,
+      "batting_style": "Right-handed",
+      "price": 28000
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co.com/Vw7h2T1/2.jpg",
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "type": "Batsman",
+      "rating": 4.7,
+      "batting_style": "Right-handed",
+      "price": 30000
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co.com/HnB6Fbk/3.jpg",
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "type": "Batsman",
+      "rating": 4.5,
+      "batting_style": "Left-handed",
+      "price": 27000
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co.com/QvhhQbZ/4.jpg",
+      "name": "Virat Kohli",
+      "country": "India",
+      "type": "Batsman",
+      "rating": 4.9,
+      "batting_style": "Right-handed",
+      "price": 29000
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co.com/V2P6MmT/5.jpg",
+      "name": "Joe Root",
+      "country": "England",
+      "type": "Batsman",
+      "rating": 4.8,
+      "batting_style": "Right-handed",
+      "price": 28000
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co.com/PW6Hcc2/6.jpg",
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "type": "Bowler",
+      "rating": 4.6,
+      "batting_style": "Right-handed",
+      "price": 27000
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co.com/qrPJMtM/7.jpg",
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "type": "Wicketkeeper",
+      "rating": 4.4,
+      "batting_style": "Right-handed",
+      "price": 25000
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co.com/rtxYbvw/8.jpg",
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "type": "Bowler",
+      "rating": 4.3,
+      "batting_style": "Left-handed",
+      "price": 26000
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co.com/HnTPgB3/9.jpg",
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "type": "Batsman",
+      "rating": 4.8,
+      "batting_style": "Right-handed",
+      "price": 30000
+    }
+  ]
+  

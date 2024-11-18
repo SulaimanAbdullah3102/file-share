@@ -1,0 +1,7 @@
+.bg {
+    background-image: url(../assets/bg-shadow.png);
+}
+
+.bgd {
+    background-image: linear-gradient(to bottom, white 0%, white 20%, #06091A 20%, #06091A 100%);
+}
